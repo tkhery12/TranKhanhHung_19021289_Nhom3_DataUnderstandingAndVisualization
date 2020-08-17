@@ -1,0 +1,35 @@
+Kich thuoc: (153, 9) 
+                    category
+Tin tức                   4
+Tâm sự                    4
+Góc nhìn                  3
+Thời sự                   3
+Ứng dụng                  3
+Thú cưng                  2
+Khoa học                  2
+Phân tích                 2
+Places                    2
+Thế giới                  2
+Hỏi - Đáp                 1
+Pháp luật                 1
+Thường thức               1
+Thế giới tự nhiên         1
+Chuyện lạ                 1
+Xe                        1
+Cười                      1
+Phát minh                 1
+Ảnh                       1 
+                                                     tag
+['']                                                  2
+['Renaissance International School Saigon', 'Re...    2
+['khách sạn', 'khó khăn', 'đóng cửa', 'phố cổ',...    1
+['vòng 11 V-League 2020', 'Sài Gòn', 'Rodrigo D...    1
+['top', 'khách sạn việt', 'tripadvisor', 'resor...    1
+...                                                 ...
+['resort', 'biệt lập', 'six senses côn đảo', 't...    1
+['djokovic', 'jelena djokovic']                       1
+['tyson', 'boxing', 'mike tyson']                     1
+['vợ chồng tan vỡ', 'ly hôn', 'chia tay', 'khôn...    1
+['us open', 'serena williams', 'mỹ mở rộng']          1
+
+[151 rows x 1 columns] 
